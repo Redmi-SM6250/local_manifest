@@ -1,9 +1,6 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <!-- Device Tree, Vendor, Kernel -->
   <project name="Xiaomi-Curtana/android_device_redmi_curtana " path="device/redmi/curtana" remote="github" revision="lineage-17.1"/>
-  <project name="Xiaomi-Curtana/android_kernel_redmi_sm7125" path="kernel/redmi/sm7125" remote="github" revision="lineage-17.1"/>
+  <project name="ctwoon/msm-4.14" path="kernel/redmi/sm6250" remote="github" revision="stable"/>
   <project name="Xiaomi-Curtana/android_vendor_redmi_curtana" path="vendor/redmi/curtana" remote="github" revision="lineage-17.1"/>
 </manifest>
