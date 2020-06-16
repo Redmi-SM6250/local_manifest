@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Redmi-SM6250/android_device_redmi_sm6250-common" path="device/redmi/sm6250-common" remote="github" revision="lineage-17.1"/>
+  <project name="Redmi-SM6250/android_device_redmi_curtana" path="device/redmi/curtana" remote="github" revision="lineage-17.1"/>
+  <project name="Redmi-SM6250/android_device_redmi_excalibur" path="device/redmi/excalibur" remote="github" revision="lineage-17.1"/>
+  <project name="Redmi-SM6250/android_device_redmi_joyeuse" path="device/redmi/joyeuse" remote="github" revision="lineage-17.1"/>
+  <project name="Redmi-SM6250/android_vendor_redmi_sm6250-common" path="vendor/redmi/sm6250-common" remote="github" revision="lineage-17.1"/>
+  <project name="Redmi-SM6250/android_kernel_redmi_sm6250" path="kernel/redmi/sm6250" remote="github" revision="lineage-17.1"/>
+</manifest>
